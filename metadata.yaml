@@ -1,11 +1,16 @@
 _repo: Le-Secret-professionnel_56997
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56997-h/images/cover.jpg
 creator:
   author:
     agent_name: Cocteau, Jean
     gutenberg_agent_id: '49137'
     url: http://www.gutenberg.org/2009/agents/49137
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56997#Le-Secret-professionnel
 gutenberg_bookshelf:
 - FR Littérature
 - FR Nouveautés
