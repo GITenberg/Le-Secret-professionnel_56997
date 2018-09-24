@@ -1,0 +1,23 @@
+_repo: Le-Secret-professionnel_56997
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cocteau, Jean
+    gutenberg_agent_id: '49137'
+    url: http://www.gutenberg.org/2009/agents/49137
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- FR Nouveautés
+gutenberg_issued: '2018-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56997'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le Secret professionnel
+url: http://www.gutenberg.org/ebooks/56997
